@@ -6,7 +6,12 @@ This project will start a new Web Development project using NodeJs and NPM scrip
   You will need NodeJS to run the npm scripts in this project. NPM will install with the NodeJS installation. [NodeJS](http://nodejs.org)
 
 ## Install
-  You will need to clone the repository to your local machine where you what your project to run. Change your diretory to the cloned repository.
+  You will need to clone the repository to your local machine where you what your project to run, or you can download the zip folder.
+
+  Change your directory to the cloned repository.
+
+  If you clone the repository you need to delete the Node_Modules folder and the .git folder or with the zip folder you can copy in everything except Node_Modules and .git folders into your project folder.
+  
   ```
   npm install
   ```
@@ -21,3 +26,5 @@ This project will start a new Web Development project using NodeJs and NPM scrip
 
     *VSCODE USERS*
     You can use the built in terminal to run and monitor the changes when they are made. Also you can use Live Server to run your project in the browsers to see what your project looks like as you build it. If you make changes to you HTMl files, SCSS files or JS files the browser will automatically reload.
+
+    This can be used with Atom or Sublime Text , but you will need to use their Live Server setup.
