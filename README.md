@@ -22,7 +22,11 @@ This project will start a new Web Development project using NodeJs and NPM scrip
   ## How to use
     You will have a Build folder that will contain your "production" files for HTML, CSS, Javascript and images. You will only be changing the HTML files and Javascript files in this location. There will be a Source folder that contains all the SASS files where you will create all of your preprocessed CSS files.
 
-    Then you will enter ```npm start``` from the command line to fun script to monitor all SASS files for changes.
+    Then you will enter
+     ```
+     npm start
+     ``` 
+     from the command line to run script that monitors all SASS files for changes.
 
     *VSCODE USERS*
     You can use the built in terminal to run and monitor the changes when they are made. Also you can use Live Server to run your project in the browsers to see what your project looks like as you build it. If you make changes to you HTMl files, SCSS files or JS files the browser will automatically reload.
