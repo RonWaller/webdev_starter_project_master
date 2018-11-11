@@ -29,3 +29,6 @@ Then you will enter from the command line to run script that monitors all SASS f
  You can use the built in terminal to run and monitor the changes when they are made. Also you can use Live Server to run your project in the browsers to see what your project looks like as you build it. If you make changes to you HTMl files, SCSS files or JS files the browser will automatically reload.
 
 This can be used with Atom or Sublime Text , but you will need to use their Live Server setup.
+
+##Final Steps
+This is now your project to do as you wish. The index.html file is just boilerplate to get you started. Delete the README.md file because you will not need it in your project. You can delete any or add any .scss files you wish, but you need to make changes to the main.scss file. 
